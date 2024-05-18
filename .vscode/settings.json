@@ -1,0 +1,5 @@
+{
+    "tailwind-fold.foldStyle": "ALL",
+    "tailwind-fold.foldLengthThreshold": 4,
+    "tailwind-fold.autoFold": false
+}
